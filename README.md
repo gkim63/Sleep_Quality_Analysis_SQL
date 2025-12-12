@@ -31,7 +31,7 @@ The goal is to support data-driven decisions for improving employee well-being a
   - Differences from previous age group: 30s → +0.6, 40s → -0.16, 50s → +0.72  
 - **Insight:** Employees in their 50s sleep the most, while 20s sleep the least. Younger employees may benefit from targeted wellness interventions to improve sleep.
 
-![Age Group Sleep Comparison](images/2_Age_Group_Sleep_Comparison.png)
+![Age Group Sleep Comparison](./Images/2_Age_Group_Sleep_Comparison.png)
 
 ---
 
@@ -44,7 +44,7 @@ The goal is to support data-driven decisions for improving employee well-being a
   - Generally, higher physical activity correlates with better sleep quality.
   - However, excessive activity (81–90) shows a slight decrease in sleep quality compared to 71–80), suggesting too much physical activity may negatively affect sleep duration and quality. → Wellness programs should encourage moderate activity levels for optimal sleep outcomes.
 
-![Physical Activity Level & Sleep Quality](images/3_Physical_Activity_Level_and_Sleep_Quality.png)
+![Physical Activity Level & Sleep Quality](./Images/3_Physical_Activity_Level_and_Sleep_Quality.png)
 
 ---
 
@@ -55,7 +55,7 @@ The goal is to support data-driven decisions for improving employee well-being a
   - Female: Avg Sleep 7.23h, Sleep Quality 7.66  
 - **Insight:** Women sleep longer and have higher sleep quality than men. Gender-specific wellness strategies may improve overall employee health.
 
-![Gender-Based Sleep Analysis](images/4_Gender_Based_Sleep_Analysis.png)
+![Gender-Based Sleep Analysis](./Images/4_Gender_Based_Sleep_Analysis.png)
 
 ---
 
@@ -68,7 +68,7 @@ The goal is to support data-driven decisions for improving employee well-being a
   - Obese: Sleep 6.96, Quality 6.40, Stress 5.70  
 - **Insight:** Higher BMI groups show lower sleep quality and higher stress. Wellness programs should integrate sleep improvement and weight management strategies.
 - 
-![BMI Category Analysis](images/5_BMI_Category_Analysis.png)
+![BMI Category Analysis](./Images/5_BMI_Category_Analysis.png)
 
 ---
 
@@ -80,7 +80,7 @@ The goal is to support data-driven decisions for improving employee well-being a
 - **Insight:** Longer sleep duration is associated with higher sleep quality and lower stress. Encouraging sufficient sleep can enhance overall wellness.
 
 
-![Sleep Duration Group Comparison](images/6_Sleep_Duration_Group_Comparison.png)
+![Sleep Duration Group Comparison](./Images/6_Sleep_Duration_Group_Comparison.png)
 
 ---
 
