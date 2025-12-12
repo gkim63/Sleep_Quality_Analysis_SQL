@@ -20,7 +20,7 @@ The goal is to support data-driven decisions for improving employee well-being a
 - **Insight:** Engineers sleep the longest (7.99h) with the lowest Warning rate (4.8%), while Nurses sleep less (7.06h) with the highest Warning count (14, 9.2%). Sales Representatives have the lowest sleep quality.  
   → Occupations with lower sleep quality or higher Warning rates may require targeted wellness programs.
   
-![Sleep Duration Analysis by Occupation](images/1_Sleep_Duration_Analysis_by_Occupation.png)
+![Sleep Duration Analysis by Occupation](./images/1_Sleep_Duration_Analysis_by_Occupation.png)
 
 ---
 
