@@ -1,6 +1,6 @@
 # Sleep_Quality_Analysis_SQL
 
-## Project Summary:
+## Project Summary
 This project analyzes employee sleep patterns using SQL, highlighting how occupation, age, physical activity, gender, and BMI affect sleep quality and duration. The findings provide actionable insights for targeted wellness programs that improve employee well-being, reduce stress, and sustain productivity.
 
 ## Project Overview
