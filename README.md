@@ -15,7 +15,6 @@ The goal is to support **data-driven decisions** for improving employee well-bei
 - Notes: No personally identifiable information included.  
 - Dtat structure: 3,900 rows, 13 columns
 
-## Analyses & Key Insights
 
 ## Analyses & Key Insights
 
@@ -85,7 +84,7 @@ The goal is to support **data-driven decisions** for improving employee well-bei
 - **BMI:** Overweight and obese groups show reduced sleep quality and higher stress levels, highlighting potential health-related sleep risks. Wellness programs should combine sleep improvement with gradual weight-management support by introducing **low-intensity physical activities initially and progressively increasing exercise intensity to support sustainable weight loss and strength development.** Providing access to professional guidance or personalized check-ins can help ensure effectiveness while maintaining employee comfort and privacy.
 - **Sleep Duration Groups:** Long sleepers report significantly higher sleep quality and lower stress, reinforcing the importance of sufficient sleep for overall well-being. Rather than focusing solely on increasing sleep duration, organizations should help employees identify **everyday factors that interfere with sleep—such as stress, workload, or recovery imbalance—and provide practical guidance on stress management, recovery routines, and healthy activity levels to improve sleep quality across the majority population.**
   
-## Overall Conclusion:
+## Overall Conclusion
 These findings suggest that **data-driven, role and lifestyle-aware wellness strategies** can help organizations proactively address sleep deprivation risks, improve employee well-being, and support sustainable productivity.
 
 
